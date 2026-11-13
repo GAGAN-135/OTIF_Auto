@@ -1,0 +1,17 @@
+# Credentials - never commit
+.env
+
+# Generated outputs
+output/
+data/
+logs/
+*.parquet
+*.xlsx
+!reference/*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/

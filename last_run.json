@@ -1,0 +1,18 @@
+{
+  "run_date": "2026-10-24",
+  "parquet_dir": "C:\\Users\\Gagan.singh\\OneDrive - NuTaste Group\\Gagan Singh\\Projects\\OTIF_Auto",
+  "started_at": "2026-10-24 12:51:16.684778",
+  "include_open_orders": true,
+  "skip_archive_lines": false,
+  "order_lines": 47665,
+  "snop_rows": 44389,
+  "pending_rows": 842,
+  "pending_incomplete": 532,
+  "assessable_lines": 46823,
+  "otif_achieved": 32074,
+  "otif_pct": 68.5,
+  "status": "success",
+  "exit_code": 0,
+  "finished_at": "2026-10-24 12:52:48.692968",
+  "duration_seconds": 92.0
+}

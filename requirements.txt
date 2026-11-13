@@ -1,0 +1,7 @@
+requests>=2.32
+pandas>=2.2
+pyarrow>=16.0
+XlsxWriter>=3.2
+python-dotenv>=1.0
+# Reading reference/lead_days.xlsx (release_otif.py). XlsxWriter only writes.
+openpyxl>=3.1
